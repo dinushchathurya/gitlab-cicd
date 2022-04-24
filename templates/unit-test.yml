@@ -1,4 +1,4 @@
 unit test:
   stage: quality
   script:
-    - echo "test"
+    - echo "Unit Testing"

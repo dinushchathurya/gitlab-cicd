@@ -1,0 +1,4 @@
+sast test:
+  stage: quality
+  script:
+    - echo "Static Application Security Testing"
