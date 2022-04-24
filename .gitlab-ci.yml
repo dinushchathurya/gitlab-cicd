@@ -5,4 +5,4 @@ stages:
   - deploy
 
 include: 
-  - test/test.yml
+  - templates/unit-test.yml
