@@ -1,0 +1,4 @@
+unit test:
+  stage: quality
+  script:
+    - echo "test"
