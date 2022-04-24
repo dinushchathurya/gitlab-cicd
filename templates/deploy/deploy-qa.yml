@@ -1,4 +1,4 @@
 deploy uat:
-  stage: build
+  stage: deploy
   script:
     - echo "Deploying application to QA"

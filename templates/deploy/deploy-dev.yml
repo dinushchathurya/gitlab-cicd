@@ -1,4 +1,4 @@
 deploy dev:
-  stage: build
+  stage: deploy
   script:
     - echo "Deploying application to Development"
