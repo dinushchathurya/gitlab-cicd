@@ -8,6 +8,8 @@ include:
   - templates/test/lint-test.yml
   - templates/test/sast-test.yml
   - templates/test/unit-test.yml
+  - templates/build/build.yml
+  - templates/push/push.yml
   - templates/deploy/deploy-dev.yml
   - templates/deploy/deploy-qa.yml
   - templates/deploy/deploy-uat.yml
