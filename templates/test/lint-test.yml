@@ -1,0 +1,4 @@
+lint test:
+  stage: quality
+  script:
+    - echo "Lint Testing"

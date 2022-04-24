@@ -2,3 +2,4 @@ unit test:
   stage: quality
   script:
     - echo "Unit Testing"
+  needs: ["sast test"]
