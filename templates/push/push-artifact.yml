@@ -1,0 +1,4 @@
+push:
+  stage: push
+  script:
+    - echo "Pushing artifact"

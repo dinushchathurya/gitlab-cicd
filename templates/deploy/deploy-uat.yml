@@ -1,0 +1,4 @@
+deploy uat:
+  stage: build
+  script:
+    - echo "Deploying application to UAT"
